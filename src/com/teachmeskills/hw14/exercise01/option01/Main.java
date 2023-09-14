@@ -1,4 +1,4 @@
-package com.teachmeskills.hw14.exercise01;
+package com.teachmeskills.hw14.exercise01.option01;
 
 public class Main {
     public static void main(String[] args) {
